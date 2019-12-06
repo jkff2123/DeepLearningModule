@@ -1,0 +1,14 @@
+{
+  "config": {
+    "batch_size": 100,
+    "iteration_number": 100000,
+    "ln_rate": 0.1,
+    "weight": 0.0001,
+    "node_numbers": [ 250, 100 ],
+    "load_exist_weight_data": false
+  },
+  "study_file_path": {
+    "samplefile_path": "",
+    "trainingfile_path": ""
+  }
+}
